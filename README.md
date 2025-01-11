@@ -80,3 +80,6 @@ make clearport  # 清理被占用的 13 端口
 - 系统环境：Linux/Unix
 - 编译器：GCC
 - 依赖库：标准 C 库
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
